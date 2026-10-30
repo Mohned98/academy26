@@ -4,6 +4,11 @@ int main() {
 
 
     newFunction();
+    anotherFunctionFeatureX();
+    for (int i = 0; i < 10; i++) {
+        // Add your code here
+    }
+
     return 0;
 }
 
