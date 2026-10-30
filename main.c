@@ -3,7 +3,7 @@
 int main() {
 
 
-
+    newFunction();
     return 0;
 }
 
